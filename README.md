@@ -1,5 +1,5 @@
 ---
-Layout:default
+Layout : default
 ---
 
 # Conquer the Dysthimia
