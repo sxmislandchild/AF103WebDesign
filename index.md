@@ -1,8 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-<body>
-
 <style>
 .parallax {
   
@@ -18,6 +16,10 @@
 
 <!-- Container element -->
 <div class="parallax"></div>
+
+<body>
+
+
 
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
