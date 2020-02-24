@@ -1,3 +1,8 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
 <style>
 .parallax {
   /* The image used */
@@ -16,3 +21,9 @@
 
 <!-- Container element -->
 <div class="parallax"></div>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
